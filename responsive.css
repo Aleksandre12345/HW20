@@ -1,0 +1,25 @@
+@media (width > 1440px) {
+    .box {
+        width: 540px;
+        height: 332px;
+    }
+    p {
+        color: #53FFAA;
+        font-size: 13px;
+        font-weight: 800;
+        letter-spacing: 4.09px;
+    }
+    h3 {
+        width: 468px;
+        height: 114px;
+        color: #CEE3E9;
+        font-size: 28px;
+        font-weight: 800;
+    }
+    .lines {
+        margin-top: 12px;
+    }
+    .borderline1,.borderline2 {
+        width: 196px;
+    }
+}
